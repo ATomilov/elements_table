@@ -123,134 +123,134 @@
     </element>
     <element id="e_11">
       <atomic_namber>11</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>22.99</atomic_mass>
+      <name>Натрий</name>
+      <electrons_on_layer>2-8-1</electrons_on_layer>
+      <symbol>Na</symbol>
+      <kind>Щелочные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>1</group>
+        <period>3</period>
       </position>
     </element>
     <element id="e_12">
       <atomic_namber>12</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>24.305</atomic_mass>
+      <name>Магний</name>
+      <electrons_on_layer>2-8-2</electrons_on_layer>
+      <symbol>Mg</symbol>
+      <kind>Щелочноземельные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>2</group>
+        <period>3</period>
       </position>
     </element>
     <element id="e_13">
       <atomic_namber>13</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>26.982</atomic_mass>
+      <name>Алюминий</name>
+      <electrons_on_layer>2-8-3</electrons_on_layer>
+      <symbol>Al</symbol>
+      <kind>Постпереходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>13</group>
+        <period>3</period>
       </position>
     </element>
     <element id="e_14">
       <atomic_namber>14</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>28.086</atomic_mass>
+      <name>Кремний</name>
+      <electrons_on_layer>2-8-4</electrons_on_layer>
+      <symbol>Si</symbol>
+      <kind>Полуметаллы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>14</group>
+        <period>3</period>
       </position>
     </element>
     <element id="e_15">
       <atomic_namber>15</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>30.974</atomic_mass>
+      <name>Фосфор</name>
+      <electrons_on_layer>2-8-5</electrons_on_layer>
+      <symbol>P</symbol>
+      <kind>Неметаллы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>15</group>
+        <period>3</period>
       </position>
     </element>
     <element id="e_16">
       <atomic_namber>16</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>32.065</atomic_mass>
+      <name>Сера</name>
+      <electrons_on_layer>2-8-6</electrons_on_layer>
+      <symbol>S</symbol>
+      <kind>Неметаллы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>16</group>
+        <period>3</period>
       </position>
     </element>
     <element id="e_17">
       <atomic_namber>17</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>35.453</atomic_mass>
+      <name>Хлор</name>
+      <electrons_on_layer>2-8-7</electrons_on_layer>
+      <symbol>Cl</symbol>
+      <kind>Галогены</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>17</group>
+        <period>3</period>
       </position>
     </element>
     <element id="e_18">
       <atomic_namber>18</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>39.948</atomic_mass>
+      <name>Аргон</name>
+      <electrons_on_layer>2-8-8</electrons_on_layer>
+      <symbol>Ar</symbol>
+      <kind>Инертные газы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>18</group>
+        <period>3</period>
       </position>
     </element>
     <element id="e_19">
       <atomic_namber>19</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>39.098</atomic_mass>
+      <name>Калий</name>
+      <electrons_on_layer>2-8-8-1</electrons_on_layer>
+      <symbol>K</symbol>
+      <kind>Щелочные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>1</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_20">
       <atomic_namber>20</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>40.078</atomic_mass>
+      <name>Кальций</name>
+      <electrons_on_layer>2-8-8-2</electrons_on_layer>
+      <symbol>Ca</symbol>
+      <kind>Щелочноземельные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>2</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_21">
       <atomic_namber>21</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>44.956</atomic_mass>
+      <name>Скандий</name>
+      <electrons_on_layer>2-8-9-2</electrons_on_layer>
+      <symbol>Sc</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_22">

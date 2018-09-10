@@ -255,134 +255,134 @@
     </element>
     <element id="e_22">
       <atomic_namber>22</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>47.867</atomic_mass>
+      <name>Титан</name>
+      <electrons_on_layer>2-8-10-2</electrons_on_layer>
+      <symbol>Ti</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>4</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_23">
       <atomic_namber>23</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>50.942</atomic_mass>
+      <name>Ванадий</name>
+      <electrons_on_layer>2-8-11-2</electrons_on_layer>
+      <symbol>V</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>5</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_24">
       <atomic_namber>24</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>51.996</atomic_mass>
+      <name>Хром</name>
+      <electrons_on_layer>2-8-13-1</electrons_on_layer>
+      <symbol>Cr</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>6</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_25">
       <atomic_namber>25</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>54.938</atomic_mass>
+      <name>Марганец</name>
+      <electrons_on_layer>2-8-13-2</electrons_on_layer>
+      <symbol>Mn</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>7</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_26">
       <atomic_namber>26</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>55.845</atomic_mass>
+      <name>Железо</name>
+      <electrons_on_layer>2-8-14-2</electrons_on_layer>
+      <symbol>Fe</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>8</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_27">
       <atomic_namber>27</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>58.933</atomic_mass>
+      <name>Кобальт</name>
+      <electrons_on_layer>2-8-15-2</electrons_on_layer>
+      <symbol>Co</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>9</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_28">
       <atomic_namber>28</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>58.693</atomic_mass>
+      <name>Никель</name>
+      <electrons_on_layer>2-8-16-2</electrons_on_layer>
+      <symbol>Ni</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>10</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_29">
       <atomic_namber>29</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>63.546</atomic_mass>
+      <name>Медь</name>
+      <electrons_on_layer>2-8-18-1</electrons_on_layer>
+      <symbol>Cu</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>11</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_30">
       <atomic_namber>30</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>65.38</atomic_mass>
+      <name>Цинк</name>
+      <electrons_on_layer>2-8-18-2</electrons_on_layer>
+      <symbol>Zn</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>12</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_31">
       <atomic_namber>31</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>69.723</atomic_mass>
+      <name>Галлий</name>
+      <electrons_on_layer>2-8-18-3</electrons_on_layer>
+      <symbol>Ga</symbol>
+      <kind>Постпереходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>13</group>
+        <period>2</period>
       </position>
     </element>
     <element id="e_32">
       <atomic_namber>32</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>72.64</atomic_mass>
+      <name>Германий</name>
+      <electrons_on_layer>2-8-18-4</electrons_on_layer>
+      <symbol>Ge</symbol>
+      <kind>Полуметаллы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>14</group>
+        <period>4</period>
       </position>
     </element>
     <element id="e_33">

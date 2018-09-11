@@ -651,167 +651,167 @@
     </element>
     <element id="e_55">
       <atomic_namber>55</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>132.905</atomic_mass>
+      <name>Цезий</name>
+      <electrons_on_layer>2-8-18-18-8-1</electrons_on_layer>
+      <symbol>Cs</symbol>
+      <kind>Щелочные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>1</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_56">
       <atomic_namber>56</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>137.327</atomic_mass>
+      <name>Барий</name>
+      <electrons_on_layer>2-8-18-18-8-2</electrons_on_layer>
+      <symbol>Ba</symbol>
+      <kind>Щелочноземельные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>2</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_57">
       <atomic_namber>57</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>138.905</atomic_mass>
+      <name>Лантан</name>
+      <electrons_on_layer>2-8-18-18-9-2</electrons_on_layer>
+      <symbol>La</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_58">
       <atomic_namber>58</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>140.116</atomic_mass>
+      <name>Церий</name>
+      <electrons_on_layer>2-8-18-19-9-2</electrons_on_layer>
+      <symbol>Ce</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_59">
       <atomic_namber>59</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>140.908</atomic_mass>
+      <name>Празеодим</name>
+      <electrons_on_layer>2-8-18-21-8-2</electrons_on_layer>
+      <symbol>Pr</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_60">
       <atomic_namber>60</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>144.242</atomic_mass>
+      <name>Неодим</name>
+      <electrons_on_layer>2-8-18-22-8-2</electrons_on_layer>
+      <symbol>Nd</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_61">
       <atomic_namber>61</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>145</atomic_mass>
+      <name>Прометий</name>
+      <electrons_on_layer>2-8-18-23-8-2</electrons_on_layer>
+      <symbol>Pm</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_62">
       <atomic_namber>62</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>150.36</atomic_mass>
+      <name>Самарий</name>
+      <electrons_on_layer>2-8-18-24-8-2</electrons_on_layer>
+      <symbol>Sm</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_63">
       <atomic_namber>63</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>151.964</atomic_mass>
+      <name>Европий</name>
+      <electrons_on_layer>2-8-18-25-8-2</electrons_on_layer>
+      <symbol>Eu</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_64">
       <atomic_namber>64</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>157.25</atomic_mass>
+      <name>Гадолиний</name>
+      <electrons_on_layer>2-8-18-25-9-2</electrons_on_layer>
+      <symbol>Gd</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_65">
       <atomic_namber>65</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>158.925</atomic_mass>
+      <name>Тербий</name>
+      <electrons_on_layer>2-8-18-27-8-2</electrons_on_layer>
+      <symbol>Tb</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_66">
       <atomic_namber>66</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>162.5</atomic_mass>
+      <name>Диспрозий</name>
+      <electrons_on_layer>2-8-18-28-8-2</electrons_on_layer>
+      <symbol>Dy</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_67">
       <atomic_namber>67</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>164.93</atomic_mass>
+      <name>Гольмий</name>
+      <electrons_on_layer>2-8-18-29-8-2</electrons_on_layer>
+      <symbol>Ho</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_68">
       <atomic_namber>68</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>167.259</atomic_mass>
+      <name>Эрбий</name>
+      <electrons_on_layer>2-8-18-30-8-2</electrons_on_layer>
+      <symbol>Er</symbol>
+      <kind>Лантаноиды</kind>
       <position>
         <group></group>
         <period></period>
@@ -819,119 +819,119 @@
     </element>
     <element id="e_69">
       <atomic_namber>69</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>168.934</atomic_mass>
+      <name>Тулий</name>
+      <electrons_on_layer>2-8-18-31-8-2</electrons_on_layer>
+      <symbol>Tm</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_70">
       <atomic_namber>70</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>173.054</atomic_mass>
+      <name>Иттербий</name>
+      <electrons_on_layer>2-8-18-32-8-2</electrons_on_layer>
+      <symbol>Yb</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_71">
       <atomic_namber>71</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>174.967</atomic_mass>
+      <name>Лютеций</name>
+      <electrons_on_layer>2-8-18-32-9-2</electrons_on_layer>
+      <symbol>Lu</symbol>
+      <kind>Лантаноиды</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>3</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_72">
       <atomic_namber>72</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>178.49</atomic_mass>
+      <name>Гафний</name>
+      <electrons_on_layer>2-8-18-32-10-2</electrons_on_layer>
+      <symbol>Hf</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>4</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_73">
       <atomic_namber>73</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>180.948</atomic_mass>
+      <name>Тантал</name>
+      <electrons_on_layer>2-8-18-32-11-2</electrons_on_layer>
+      <symbol>Ta</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>5</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_74">
       <atomic_namber>74</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>183.84</atomic_mass>
+      <name>Вольфрам</name>
+      <electrons_on_layer>2-8-18-32-12-2</electrons_on_layer>
+      <symbol>W</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>6</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_75">
       <atomic_namber>75</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>186.207</atomic_mass>
+      <name>Рений</name>
+      <electrons_on_layer>2-8-18-32-13-2</electrons_on_layer>
+      <symbol>Re</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>7</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_76">
       <atomic_namber>76</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>190.23</atomic_mass>
+      <name>Осмий</name>
+      <electrons_on_layer>2-8-18-32-14-2</electrons_on_layer>
+      <symbol>Os</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>8</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_77">
       <atomic_namber>77</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>192.217</atomic_mass>
+      <name>Иридий</name>
+      <electrons_on_layer>2-8-18-32-15-2</electrons_on_layer>
+      <symbol>Ir</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>9</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_78">
       <atomic_namber>78</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>195.084</atomic_mass>
+      <name>Платина</name>
+      <electrons_on_layer>2-8-18-32-17-1</electrons_on_layer>
+      <symbol>Pt</symbol>
+      <kind>Переходные металлы</kind>
       <position>
         <group></group>
         <period></period>
@@ -939,26 +939,26 @@
     </element>
     <element id="e_79">
       <atomic_namber>79</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>196.967</atomic_mass>
+      <name>Золотов</name>
+      <electrons_on_layer>2-8-18-32-18-1</electrons_on_layer>
+      <symbol>Au</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>11</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_80">
       <atomic_namber>80</atomic_namber>
-      <atomic_mass></atomic_mass>
-      <name></name>
-      <electrons_on_layer></electrons_on_layer>
-      <symbol></symbol>
-      <kind></kind>
+      <atomic_mass>200.59</atomic_mass>
+      <name>Ртуть</name>
+      <electrons_on_layer>2-8-18-32-18-2</electrons_on_layer>
+      <symbol>Hg</symbol>
+      <kind>Переходные металлы</kind>
       <position>
-        <group></group>
-        <period></period>
+        <group>12</group>
+        <period>6</period>
       </position>
     </element>
     <element id="e_81">

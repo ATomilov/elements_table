@@ -4,7 +4,7 @@
     <html>
       <body>
         <h2 style="text-align:center">Таблица Менделеева</h2>
-        <table border="2" style="text-align:center">
+        <table border="2" style="text-align:center; margin: 0 auto">
           <tr>
             <th>№</th>
             <th>Наименование (символ)</th>

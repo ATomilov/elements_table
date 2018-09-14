@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="output_adapt.xsl"?>
 <table>
   <elements>
     <element id="e_1">
@@ -940,7 +941,7 @@
     <element id="e_79">
       <atomic_namber>79</atomic_namber>
       <atomic_mass>196.967</atomic_mass>
-      <name>Золотов</name>
+      <name>Золото</name>
       <electrons_on_layer>2-8-18-32-18-1</electrons_on_layer>
       <symbol>Au</symbol>
       <kind>Переходные металлы</kind>

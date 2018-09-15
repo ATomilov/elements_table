@@ -14,7 +14,7 @@
             <th>Группа</th>
             <th>Период</th>
           </tr>
-          <xsl:for-each select="table/elements/element">
+          <xsl:for-each select="elements_table/elements/element">
             <tr>
               <xsl:if test="kind = 'Неметаллы'">
                 <td bgcolor="#a0ffa0"><xsl:value-of select="atomic_namber"/></td>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="output_adapt.xsl"?>
-<table>
+<elements_table>
   <elements>
     <element id="e_1">
       <atomic_namber>1</atomic_namber>
@@ -1419,4 +1419,4 @@
       </position>
     </element>
   </elements>
-</table>
+</elements_table>

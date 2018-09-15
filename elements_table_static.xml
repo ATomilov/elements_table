@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="output_static.xsl"?>
-<!DOCTYPE languages SYSTEM "elements_table.dtd" >
+<!DOCTYPE elements_table SYSTEM "elements_table.dtd" >
 <table>
   <elements>
     <element id="e_1">

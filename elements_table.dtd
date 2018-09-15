@@ -1,0 +1,13 @@
+<?xml verison="1.0" encoding="UTF-8" ?>
+<!ELEMENT atomic_namber (#PSDATA)>
+<!ELEMENT atomic_mass (#PSDATA)>
+<!ELEMENT name (#PSDATA)>
+<!ELEMENT electrons_on_layer (#PSDATA)>
+<!ELEMENT symbol (#PSDATA)>
+<!ELEMENT kind (#PSDATA)>
+<!ELEMENT group (#PSDATA)>
+<!ELEMENT period (#PSDATA)>
+<!ELEMENT position (group, period)>
+<!ATTLIST element id CDATA #REQUIRED>
+<!ELEMENT element (atomic_namber, atomic_mass, name, electrons_on_layer, symbol, kind, position)>
+<!ELEMENT elements (element)+>

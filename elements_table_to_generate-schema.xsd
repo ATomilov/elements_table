@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:wmh="http://www.wmhelp.com/2003/eGenerator" elementFormDefault="qualified">
+  <xs:element name="elements_table">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="elements"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="elements">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="element" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="element">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="atomic_namber"/>
+        <xs:element ref="atomic_mass"/>
+        <xs:element ref="name"/>
+        <xs:element ref="electrons_on_layer"/>
+        <xs:element ref="symbol"/>
+        <xs:element ref="kind"/>
+        <xs:element ref="position"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="atomic_namber" type="xs:string"/>
+  <xs:element name="atomic_mass" type="xs:string"/>
+  <xs:element name="name" type="xs:string"/>
+  <xs:element name="electrons_on_layer" type="xs:string"/>
+  <xs:element name="symbol" type="xs:string"/>
+  <xs:element name="kind" type="xs:string"/>
+  <xs:element name="position">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="group"/>
+        <xs:element ref="period"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="group" type="xs:string"/>
+  <xs:element name="period" type="xs:string"/>
+</xs:schema>

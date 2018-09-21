@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT atomic_namber (#PCDATA)>
+<!ELEMENT atomic_number (#PCDATA)>
 <!ELEMENT atomic_mass (#PCDATA)>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT electrons_on_layer (#PCDATA)>
@@ -9,6 +9,6 @@
 <!ELEMENT period (#PCDATA)>
 <!ELEMENT position (group, period)>
 <!ATTLIST element id CDATA #REQUIRED>
-<!ELEMENT element (atomic_namber, atomic_mass, name, electrons_on_layer, symbol, kind, position)>
+<!ELEMENT element (atomic_number, atomic_mass, name, electrons_on_layer, symbol, kind, position)>
 <!ELEMENT elements (element)+>
 <!ELEMENT elements_table (elements)>

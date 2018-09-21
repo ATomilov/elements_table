@@ -17,7 +17,7 @@
   <xs:element name="element">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="atomic_namber"/>
+        <xs:element ref="atomic_number"/>
         <xs:element ref="atomic_mass"/>
         <xs:element ref="name"/>
         <xs:element ref="electrons_on_layer"/>
@@ -28,7 +28,7 @@
       <xs:attribute name="id" type="xs:string" use="required"/>
     </xs:complexType>
   </xs:element>
-  <xs:element name="atomic_namber" type="xs:string"/>
+  <xs:element name="atomic_number" type="xs:string"/>
   <xs:element name="atomic_mass" type="xs:string"/>
   <xs:element name="name" type="xs:string"/>
   <xs:element name="electrons_on_layer" type="xs:string"/>

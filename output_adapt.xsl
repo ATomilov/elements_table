@@ -29,7 +29,7 @@
       <xsl:apply-templates />
     </tr>
   </xsl:template>
-  <xsl:template match="atomic_namber">
+  <xsl:template match="atomic_number">
     <td bgcolor="#a0ffa0">
       <xsl:value-of select="." />
     </td>

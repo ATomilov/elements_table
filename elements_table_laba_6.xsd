@@ -49,16 +49,18 @@
   </xs:simpleType>
   <!-- Конец объединения -->
 
-<!--  -->
-  <xsd:complexType name="complex_element_type">
-    <xsd:simpleContent>
-      <xsd:extension base="xsd:integer">
-        <xsd:attribute name="atomic_number" type="xsd:integer" />
-        <xsd:attribute name="symbol" type="xsd:string" />
-      </xsd:extension>
-    </xsd:simpleContent>
+<!-- Начало типа для пустого элемента с атрибутами -->
+  <xsd:complexType name="empty_element_type">
+    <xsd:attribute name="atomic_number" type="xsd:integer" />
+    <xsd:attribute name="atomic_mass" type="xsd:double" />
+    <xsd:attribute name="name" type="xsd:string" />
+    <xsd:attribute name="electrons_on_layer" type="xsd:string" />
+    <xsd:attribute name="symbol" type="xsd:string" />
+    <xsd:attribute name="kind" type="xsd:string" />
+    <xsd:attribute name="group" type="xsd:string" />
+    <xsd:attribute name="period" type="xsd:string" />
   </xsd:complexType>
-<!--  -->
+<!-- Конец типа для пустого элемента с атрибутами -->
 
   <xs:element name="elements_table">
     <xs:complexType>

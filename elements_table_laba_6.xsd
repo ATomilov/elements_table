@@ -12,19 +12,45 @@
   </xs:restriction>
 </xs:simpleType> -->
 <!-- Конец ограничения списка атомных номеров v1 -->
-<!-- Начало списка атомных номеров -->
-<xs:element name="elements_atomic_numbers_list" type="listOfInteger"/>
-<!-- Конец списка атомных номеров -->
-<!-- Начало ограничения списка атомных номеров -->
-<xs:simpleType name="listOfInteger">
-  <xs:restriction>
-    <xs:simpleType>
-      <xs: list itemType="xs:integer">
-    </xs:simpleType>
-    <xs:maxLength value="118">
-  </xs:restriction>
-</xs:simpleType>
-<!-- Конец ограничения списка атомных номеров -->
+  <!-- Начало списка атомных номеров -->
+  <xs:element name="elements_atomic_numbers_list" type="listOfInteger"/>
+  <!-- Конец списка атомных номеров -->
+  <!-- Начало ограничения списка атомных номеров -->
+  <xs:simpleType name="listOfInteger">
+    <xs:restriction>
+      <xs:simpleType>
+        <xs: list itemType="xs:integer">
+      </xs:simpleType>
+      <xs:maxLength value="118">
+    </xs:restriction>
+  </xs:simpleType>
+  <!-- Конец ограничения списка атомных номеров -->
+
+  <!-- Начало объединения -->
+  <xs:element name="element_name">
+     <xs:simpleType>
+       <xs:union memberTypes="name_by_atomic_number name_by_symbol" />
+     </xs:simpleType>
+  </xs:element>
+  <xs:simpleType name="name_by_atomic_number">
+     <xs:restriction base="xs:positiveInteger">
+       <xs:maxInclusive value="3"/>
+     </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="name_by_symbol">
+     <xs:restriction base="xs:string">
+       <xs:enumeration value="H"/>
+       <xs:enumeration value="He"/>
+       <xs:enumeration value="Li"/>
+     </xs:restriction>
+     <!-- Начало ограничения строкового типа данных -->
+     <xs:maxLength value="2">
+     <!-- Конец ограничения строкового типа данных -->
+  </xs:simpleType>
+  <!-- Конец объединения -->
+
+
+
   <xs:element name="elements_table">
     <xs:complexType>
       <xs:sequence>

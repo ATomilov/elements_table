@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:wmh="http://www.wmhelp.com/2003/eGenerator" elementFormDefault="qualified">
-<!-- Начало списка атомных номеров -->
-<xs:simpleType name="Example_List_Atomic_Numbers">
+<!-- Начало списка атомных номеров v1 -->
+<!-- <xs:simpleType name="Example_List_Atomic_Numbers">
   <xs:list itemType='xs:integer'/>
-</xs:simpleType>
-<!-- Конец списка атомных номеров -->
-<!-- Начало ограничения списка атомных номеров -->
-<xs:simpleType name="Example_List_Atomic_Numbers_Length">
+</xs:simpleType> -->
+<!-- Конец списка атомных номеров v1 -->
+<!-- Начало ограничения списка атомных номеров v1 -->
+<!-- <xs:simpleType name="Example_List_Atomic_Numbers_Length">
   <xs:restriction base="Example_List_Atomic_Numbers"/>
     <xs:length value='118'/>
+  </xs:restriction>
+</xs:simpleType> -->
+<!-- Конец ограничения списка атомных номеров v1 -->
+<!-- Начало списка атомных номеров -->
+<xs:element name="elements_atomic_numbers_list" type="listOfInteger"/>
+<!-- Конец списка атомных номеров -->
+<!-- Начало ограничения списка атомных номеров -->
+<xs:simpleType name="listOfInteger">
+  <xs:restriction>
+    <xs:simpleType>
+      <xs: list itemType="xs:integer">
+    </xs:simpleType>
+    <xs:maxLength value="118">
   </xs:restriction>
 </xs:simpleType>
 <!-- Конец ограничения списка атомных номеров -->

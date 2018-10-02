@@ -50,6 +50,7 @@
   <!-- Конец объединения -->
 
 <!-- Начало типа для пустого элемента с атрибутами -->
+  <xs:element name="empty_table_element" type="empty_element_type"/>
   <xsd:complexType name="empty_element_type">
     <xsd:attribute name="atomic_number" type="xsd:integer" />
     <xsd:attribute name="atomic_mass" type="xsd:double" />

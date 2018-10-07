@@ -77,10 +77,60 @@
       <xs:element ref="symbol"/>
       <xs:element ref="kind"/>
       <xs:element ref="position"/>
-      </xs:sequence>
+    </xs:sequence>
   </xs:complexType>
 </xs:element>
 <!-- Конец реализации конструкции выбора -->
+
+<!-- Начало реализации конструкции последовательности выборов -->
+<xs:element name="element">
+  <xs:complexType>
+    <xsd:sequence>
+      <xsd:choice>
+        <xs:element name="ru_name" type="xs:string"/>
+        <xs:element name="ru_name1" type="xs:string"/>
+      </xsd:choice>
+      <xsd:choice>
+        <xs:element name="latin_name" type="xs:string"/>
+        <xs:element name="latin_name1" type="xs:string"/>
+      </xsd:choice>
+    </xsd:sequence>
+    <xs:sequence>
+      <xs:element ref="atomic_number"/>
+      <xs:element ref="atomic_mass"/>
+      <xs:element ref="electrons_on_layer"/>
+      <xs:element ref="symbol"/>
+      <xs:element ref="kind"/>
+      <xs:element ref="position"/>
+      </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<!-- Конец реализации конструкции последовательности выборов -->
+
+<!-- Начало реализации конструкции выбора последовательностей -->
+<xs:element name="element">
+  <xs:complexType>
+    <xsd:choice>
+      <xsd:sequence>
+        <xs:element name="ru_name" type="xs:string"/>
+        <xs:element name="ru_name1" type="xs:string"/>
+      </xsd:sequence>
+      <xsd:sequence>
+        <xs:element name="latin_name" type="xs:string"/>
+        <xs:element name="latin_name1" type="xs:string"/>
+      </xsd:sequence>
+    </xsd:choice>
+    <xs:sequence>
+      <xs:element ref="atomic_number"/>
+      <xs:element ref="atomic_mass"/>
+      <xs:element ref="electrons_on_layer"/>
+      <xs:element ref="symbol"/>
+      <xs:element ref="kind"/>
+      <xs:element ref="position"/>
+      </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<!-- Конец реализации конструкции выбора последовательностей -->
 
   <xs:element name="elements_table">
     <xs:complexType>

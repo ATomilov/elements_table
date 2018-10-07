@@ -19,7 +19,62 @@ xsi:schemaLocation="http://www.w3schools.com elements_table_laba_6.xsd">
     <!-- Реализация пустого элемента с атрибутами (L6) -->
     <empty_table_element atomic_number="119" atomic_mass="294" name="Что-нибудьпридумий" electrons_on_layer="2-8-18-32-32-18-8-1" symbol="ChPr" kind="Редкоземельные неметаллы" group="1" period="8"/>
     <!-- Конец реализация пустого элемента с атрибутами (L6) -->
-
+    <!-- Начало реализации узла элемента с выбором типа имени -->
+    <element id="e_1_1">
+      <atomic_number>1</atomic_number>
+      <atomic_mass>1.007</atomic_mass>
+      <ru_name>Водород</ru_name>
+      <electrons_on_layer>1</electrons_on_layer>
+      <symbol>H</symbol>
+      <kind>Неметаллы</kind>
+      <position>
+        <group>1</group>
+        <period>1</period>
+      </position>
+    </element>
+    <element id="e_1_2">
+      <atomic_number>1</atomic_number>
+      <atomic_mass>1.007</atomic_mass>
+      <latin_name>Hydrogenium</latin_name>
+      <electrons_on_layer>1</electrons_on_layer>
+      <symbol>H</symbol>
+      <kind>Неметаллы</kind>
+      <position>
+        <group>1</group>
+        <period>1</period>
+      </position>
+    </element>
+    <!-- Конец реализации узла элемента с выбором типа имени -->
+    <!-- Начало реализации узла элемента с последовательностью выборов -->
+    <element id="e_1_1">
+      <atomic_number>1</atomic_number>
+      <atomic_mass>1.007</atomic_mass>
+      <ru_name>Водород</ru_name>
+      <latin_name>Hydrogenium</latin_name>
+      <electrons_on_layer>1</electrons_on_layer>
+      <symbol>H</symbol>
+      <kind>Неметаллы</kind>
+      <position>
+        <group>1</group>
+        <period>1</period>
+      </position>
+    </element>
+    <!-- Конец реализации узла элемента с последовательностью выборов -->
+    <!-- Начало реализации узла элемента с выбором последовательностей -->
+    <element id="e_1_1">
+      <atomic_number>1</atomic_number>
+      <atomic_mass>1.007</atomic_mass>
+      <ru_name>Водород</ru_name>
+      <ru_name1>Водород</ru_name1>
+      <electrons_on_layer>1</electrons_on_layer>
+      <symbol>H</symbol>
+      <kind>Неметаллы</kind>
+      <position>
+        <group>1</group>
+        <period>1</period>
+      </position>
+    </element>
+    <!-- Конец реализации узла элемента с выбором последовательностей -->
     <element id="e_1">
       <atomic_number>1</atomic_number>
       <atomic_mass>1.007</atomic_mass>

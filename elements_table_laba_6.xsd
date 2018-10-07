@@ -63,6 +63,25 @@
   </xsd:complexType>
 <!-- Конец типа для пустого элемента с атрибутами -->
 
+<!-- Начало реализации конструкции выбора -->
+<xs:element name="element">
+  <xs:complexType>
+    <xs:choice>
+      <xs:element name="ru_name" type="xs:string"/>
+      <xs:element name="latin_name" type="xs:string"/>
+    </xs:choice>
+    <xs:sequence>
+      <xs:element ref="atomic_number"/>
+      <xs:element ref="atomic_mass"/>
+      <xs:element ref="electrons_on_layer"/>
+      <xs:element ref="symbol"/>
+      <xs:element ref="kind"/>
+      <xs:element ref="position"/>
+      </xs:sequence>
+  </xs:complexType>
+</xs:element>
+<!-- Конец реализации конструкции выбора -->
+
   <xs:element name="elements_table">
     <xs:complexType>
       <xs:sequence>
@@ -77,6 +96,7 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+  <!-- Начало реализации конструкции последовательности -->
   <xs:element name="element">
     <xs:complexType>
       <xs:sequence>
@@ -91,6 +111,7 @@
       <xs:attribute name="id" type="xs:string" use="required"/>
     </xs:complexType>
   </xs:element>
+  <!-- Конец реализации конструкции последовательности -->
   <xs:element name="atomic_number" type="xs:string"/>
   <xs:element name="atomic_mass" type="xs:string"/>
   <xs:element name="name" type="xs:string"/>
